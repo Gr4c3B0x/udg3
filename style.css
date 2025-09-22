@@ -492,4 +492,9 @@ footer li {
   .timeline li .timeline-panel::after {
     top: 31px;
   }
+
+  .sembunyikan-tautan {
+    color: #ffffff; /* Ganti dengan warna latar belakang halaman Anda */
+}
+
 }
