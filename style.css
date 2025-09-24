@@ -26,8 +26,8 @@ body {
 }
 
 .hero {
-  /*position: relative;*/
-  position: absolute;
+  position: relative;
+  /*position: absolute;*/
   min-height: 100vh;
 }
 
