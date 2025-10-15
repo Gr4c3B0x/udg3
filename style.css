@@ -24,9 +24,8 @@ body {
   filter: grayscale();
 }
 
-.hero1 {
-  /*position: relative;*/
-  position: absolute;
+.hero {
+  position: relative;
   min-height: 100vh;
 }
 
